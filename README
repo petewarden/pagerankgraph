@@ -8,6 +8,8 @@ the domain and the top 25 inbound link providers. The rendering is done
 using the Canvas HTML5 extension, together with a lightweight force-
 directed graph JQuery plugin I created.
 
+See http://pagerankgraph.com for a live version.
+
 ****************************
  Licensed under the 2-clause (ie no advertising requirement) BSD license,
  making it easy to reuse for commercial or GPL projects:
