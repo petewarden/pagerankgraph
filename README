@@ -8,15 +8,11 @@ the domain and the top 25 inbound link providers. The rendering is done
 using the Canvas HTML5 extension, together with a lightweight force-
 directed graph JQuery plugin I created.
 
-For more information, see http://petewarden.typepad.com
-
-Pete Warden <pete@petewarden.com>
-
 ****************************
  Licensed under the 2-clause (ie no advertising requirement) BSD license,
  making it easy to reuse for commercial or GPL projects:
  
- (c) Pete Warden <pete@petewarden.com> http://petewarden.typepad.com/ - Mar 11th 2010
+ (c) Pete Warden <pete@petewarden.com> http://petewarden.typepad.com/ - Dec 12th 2010
  
  Redistribution and use in source and binary forms, with or without modification, are
  permitted provided that the following conditions are met:
